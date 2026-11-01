@@ -21,7 +21,7 @@ namespace ConsoleApp
         
         private static void GreetBlack()
         {
-            Console.WriteLine("hello black");
+            Console.WriteLine("Hello black!");
         }
     }
 }
