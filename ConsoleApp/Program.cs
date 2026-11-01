@@ -18,5 +18,10 @@ namespace ConsoleApp
         {
             Console.WriteLine("hello white");
         }
+        
+        private static void GreetBlack()
+        {
+            Console.WriteLine("Hello black!");
+        }
     }
 }
